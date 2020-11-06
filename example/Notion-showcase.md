@@ -10,8 +10,8 @@ The stories were written by Sir Arthur Conan Doyle. Some say he portrayed Mr Wat
 
 ## Location
 
-The stories take place in London. [Sherlock Holmes](Notion%20showcase%201a85601f9ca5475ea78018468a19d73b/Characters%206c441e047292410db3d92d52e070425c/Sherlock%20Holmes%204daac81d5df54c099570b6d9db53e5fb.md) lives in 221B Baker Street.
+The stories take place in London. [Sherlock Holmes](Characters/Sherlock Holmes.md) lives in 221B Baker Street.
 
 ## Main characters
 
-[Characters](Notion%20showcase%201a85601f9ca5475ea78018468a19d73b/Characters%206c441e047292410db3d92d52e070425c.csv)
+[Characters](Characters.csv))
